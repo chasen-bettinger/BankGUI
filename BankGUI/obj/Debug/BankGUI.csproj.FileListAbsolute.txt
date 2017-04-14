@@ -1,0 +1,12 @@
+C:\Users\betti\Documents\Visual Studio 2017\Projects\BankGUI\BankGUI\bin\Debug\BankGUI.exe.config
+C:\Users\betti\Documents\Visual Studio 2017\Projects\BankGUI\BankGUI\bin\Debug\BankGUI.exe
+C:\Users\betti\Documents\Visual Studio 2017\Projects\BankGUI\BankGUI\bin\Debug\BankGUI.pdb
+C:\Users\betti\Documents\Visual Studio 2017\Projects\BankGUI\BankGUI\obj\Debug\BankGUI.csprojResolveAssemblyReference.cache
+C:\Users\betti\Documents\Visual Studio 2017\Projects\BankGUI\BankGUI\obj\Debug\BankGUI.Properties.Resources.resources
+C:\Users\betti\Documents\Visual Studio 2017\Projects\BankGUI\BankGUI\obj\Debug\BankGUI.csproj.GenerateResource.Cache
+C:\Users\betti\Documents\Visual Studio 2017\Projects\BankGUI\BankGUI\obj\Debug\BankGUI.exe
+C:\Users\betti\Documents\Visual Studio 2017\Projects\BankGUI\BankGUI\obj\Debug\BankGUI.pdb
+C:\Users\betti\Documents\Visual Studio 2017\Projects\BankGUI\BankGUI\obj\Debug\BankGUI.MainMenu.resources
+C:\Users\betti\Documents\Visual Studio 2017\Projects\BankGUI\BankGUI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\betti\Documents\Visual Studio 2017\Projects\BankGUI\BankGUI\obj\Debug\BankGUI.CheckingAccount.resources
+C:\Users\betti\documents\visual studio 2017\Projects\BankGUI\BankGUI\obj\Debug\BankGUI.SavingsAccount.resources
